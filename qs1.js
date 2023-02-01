@@ -5,5 +5,5 @@ greet = (str) => {
     return "greeting!" + " " + str;
 
   }
-  console.log(greet("laiba"));
+  console.log(greet("amna"));
 
